@@ -201,7 +201,8 @@ Anything on an iPhone. The list is in `docs/TESTING.md`.
 - **Turning it on.** The owner's first report was "there was no save, but i think pages is on". GitHub
   reported no Pages site for the repo at that point: on the Pages settings page, Save only works after a
   branch has been picked. The owner picked `main` with `/ (root)`, saved, and answered "Saved, Pages is
-  on". GitHub then reported Pages as on, and the site began answering a few minutes later.
+  on". GitHub then reported Pages as on. The site still answered "not found" at the first check and
+  began answering within the next minute.
 - **Why Kalita Wave never needed this step.** The owner asked. Pages is switched on once per repo. The
   Kalita Wave repo was created on 2026-05-27 with the original calculator uploaded the same day, and its
   site was already live when the rebuild began in November. Who switched it on back then is not
