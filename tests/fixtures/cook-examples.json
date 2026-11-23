@@ -1,0 +1,212 @@
+{
+  "note": "A frozen copy of the nine lines behind the worked examples in docs/BUILD_BRIEF.md 6.2, taken from the export of 2026-11-23 (recipe file version 5a62dc73249c). Tests read this copy so that a later edit to one of these cards cannot fail a test while the app is unchanged. Do not regenerate it to make a test pass.",
+  "rules": {
+    "whole_units": [
+      "bag",
+      "bottle",
+      "box",
+      "bunch",
+      "can",
+      "clove",
+      "head",
+      "jar",
+      "package",
+      "slice",
+      "sprig",
+      "stalk",
+      "stick",
+      null
+    ]
+  },
+  "examples": [
+    {
+      "title": "Grandma's Chili",
+      "serves": 12,
+      "servings": 6,
+      "line": {
+        "text": "1 lb sirloin",
+        "qty": [
+          1,
+          1
+        ],
+        "unit": "lb",
+        "unit_text": "lb",
+        "item": "sirloin",
+        "item_scaled": "sirloin",
+        "size": "",
+        "key": "sirloin",
+        "family": "wt",
+        "shop_item": "sirloin"
+      },
+      "shown": "1/2 lb sirloin"
+    },
+    {
+      "title": "Grandma's Chili",
+      "serves": 12,
+      "servings": 6,
+      "line": {
+        "text": "29 oz Hunt's Traditional Sauce",
+        "qty": [
+          29,
+          1
+        ],
+        "unit": "oz",
+        "unit_text": "oz",
+        "item": "Hunt's Traditional Sauce",
+        "item_scaled": "Hunt's Traditional Sauce",
+        "size": "",
+        "key": "hunt's traditional sauce",
+        "family": "wt",
+        "shop_item": "Hunt's Traditional Sauce"
+      },
+      "shown": "15 oz Hunt's Traditional Sauce"
+    },
+    {
+      "title": "Grandma's Chili",
+      "serves": 12,
+      "servings": 6,
+      "line": {
+        "text": "3 jalapenos",
+        "qty": [
+          3,
+          1
+        ],
+        "unit": null,
+        "unit_text": "",
+        "item": "jalapenos",
+        "item_scaled": "jalapenos",
+        "size": "",
+        "key": "jalapenos",
+        "family": null,
+        "shop_item": "jalapenos"
+      },
+      "shown": "1 1/2 jalapenos"
+    },
+    {
+      "title": "Pumpkin Soup",
+      "serves": 5,
+      "servings": 3,
+      "line": {
+        "text": "2 cups cooked pumpkin",
+        "qty": [
+          2,
+          1
+        ],
+        "unit": "cup",
+        "unit_text": "cups",
+        "item": "cooked pumpkin",
+        "item_scaled": "cooked pumpkin",
+        "size": "",
+        "key": "cooked pumpkin",
+        "family": "vol",
+        "shop_item": "cooked pumpkin"
+      },
+      "shown": "1 1/4 cups cooked pumpkin"
+    },
+    {
+      "title": "Pumpkin Soup",
+      "serves": 5,
+      "servings": 3,
+      "line": {
+        "text": "1 1/2 tsp salt",
+        "qty": [
+          3,
+          2
+        ],
+        "unit": "tsp",
+        "unit_text": "tsp",
+        "item": "salt",
+        "item_scaled": "salt",
+        "size": "",
+        "key": "salt",
+        "family": "vol",
+        "shop_item": "salt"
+      },
+      "shown": "7/8 tsp salt"
+    },
+    {
+      "title": "Pumpkin Soup",
+      "serves": 5,
+      "servings": 3,
+      "line": {
+        "text": "1/4 tsp curry powder",
+        "qty": [
+          1,
+          4
+        ],
+        "unit": "tsp",
+        "unit_text": "tsp",
+        "item": "curry powder",
+        "item_scaled": "curry powder",
+        "size": "",
+        "key": "curry powder",
+        "family": "vol",
+        "shop_item": "curry powder"
+      },
+      "shown": "1/8 tsp curry powder"
+    },
+    {
+      "title": "Sourdough Sandwich Bread (Pullman)",
+      "serves": 28,
+      "servings": 14,
+      "line": {
+        "text": "15 g fine sea salt",
+        "qty": [
+          15,
+          1
+        ],
+        "unit": "g",
+        "unit_text": "g",
+        "item": "fine sea salt",
+        "item_scaled": "fine sea salt",
+        "size": "",
+        "key": "fine sea salt",
+        "family": "g",
+        "shop_item": "fine sea salt"
+      },
+      "shown": "7.5 g fine sea salt"
+    },
+    {
+      "title": "Sourdough Sandwich Bread (Pullman)",
+      "serves": 28,
+      "servings": 14,
+      "line": {
+        "text": "305 g water, warmed or cooled so the dough lands near 78 F",
+        "qty": [
+          305,
+          1
+        ],
+        "unit": "g",
+        "unit_text": "g",
+        "item": "water, warmed or cooled so the dough lands near 78 F",
+        "item_scaled": "water, warmed or cooled so the dough lands near 78 F",
+        "size": "",
+        "key": "water",
+        "family": "g",
+        "shop_item": "water"
+      },
+      "shown": "153 g water, warmed or cooled so the dough lands near 78 F"
+    },
+    {
+      "title": "Guacamole",
+      "serves": 24,
+      "servings": 2,
+      "line": {
+        "text": "8 avocados (make sure they are ripe)",
+        "qty": [
+          8,
+          1
+        ],
+        "unit": null,
+        "unit_text": "",
+        "item": "avocados (make sure they are ripe)",
+        "item_scaled": "avocados (make sure they are ripe)",
+        "size": "",
+        "key": "avocados",
+        "family": null,
+        "shop_item": "avocados (make sure they are ripe)"
+      },
+      "shown": "1/2 avocados (make sure they are ripe)"
+    }
+  ]
+}
