@@ -1,0 +1,17 @@
+# Secrets: never commit (BUILD_BRIEF.md rule 5)
+.env
+.env.*
+*.pem
+*.key
+
+# Photos and PDFs never belong in this repo (BUILD_BRIEF.md rule 5). Icons are PNG and are not ignored.
+*.heic
+*.HEIC
+*.jpg
+*.jpeg
+*.pdf
+
+# Local machine files
+.DS_Store
+node_modules/
+.claude/settings.local.json
