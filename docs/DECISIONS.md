@@ -195,3 +195,27 @@ Anything on an iPhone. The list is in `docs/TESTING.md`.
   the root, and the app under `next/` at version 1.0.0-m1.1. No promote was involved.
 - **Pages was still off** when this was written, so the site answered "not found". Turning it on is the
   owner's step: Settings, Pages, "Deploy from a branch", `main`, `/ (root)`, Save.
+
+## Pages turned on, and the site checked, 2026-11-23
+
+- **Turning it on.** The owner's first report was "there was no save, but i think pages is on". GitHub
+  reported no Pages site for the repo at that point: on the Pages settings page, Save only works after a
+  branch has been picked. The owner picked `main` with `/ (root)`, saved, and answered "Saved, Pages is
+  on". GitHub then reported Pages as on, and the site began answering a few minutes later.
+- **Why Kalita Wave never needed this step.** The owner asked. Pages is switched on once per repo. The
+  Kalita Wave repo was created on 2026-05-27 with the original calculator uploaded the same day, and its
+  site was already live when the rebuild began in November. Who switched it on back then is not
+  recorded. A new repo always starts with Pages off.
+- **Checked on the site.** All 49 tracked files are served and are identical to commit `28777a2`: 25
+  under `next/`, the two data files, the root placeholder, and 21 others. The root page is the
+  placeholder and carries the robots tag. No app file exists at the root: `app/main.js`, `sw.js`, and
+  `manifest.webmanifest` there answer "not found".
+- **Opened in a desktop browser at 402 by 790**, from https://rafrtz.github.io/Recipe-Book/next/. The
+  line at the bottom of the Book reads "Recipes 1.0.0-m1.1, test copy. 48 recipes, updated 2026-11-23."
+  The service worker is registered for the `next/` folder only and holds its 25 files, the recipe file
+  is saved from `data/recipes.json`, Pumpkin Soup at 3 servings shows "1 1/4 cups cooked pumpkin" and
+  "7/8 tsp salt", and the browser reports no errors.
+- **Everything in the repo is served**, not only the app: the docs, the tests, the scripts, `CLAUDE.md`,
+  and `.claude/launch.json` can all be fetched from the site by anyone with the address. None of it is
+  private, and none of it can carry the robots tag (kickoff item 3).
+- **Not verified.** Anything on an iPhone. `docs/TESTING.md` is the list.

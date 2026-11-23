@@ -4,8 +4,9 @@ This is the owner's checklist. Nothing on it can be proven on a Mac, so nothing 
 until it has been tried on a real phone. Do every item on both phones, from the Home Screen icon.
 
 **Status, 2026-11-23:** version 1.0.0-m1.1 is built and passes its 141 tests on the Mac. It has been
-clicked through in a desktop browser at phone sizes, in light and in dark. Nothing below has been tried
-on a phone yet.
+clicked through in a desktop browser at phone sizes, in light and in dark. It was pushed the same day,
+Pages was turned on, and the test copy at the link below serves it: every file on the site matches the
+push, and it opens in a desktop browser. Nothing below has been tried on a phone yet.
 
 ## Where things are
 
