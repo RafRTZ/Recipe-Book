@@ -179,3 +179,19 @@ Anything on an iPhone. The list is in `docs/TESTING.md`.
 3. For a Recipes session in the workspace: kickoff items 4 and 14. Also, three Source links are plain
    `http` (Easy Artisan Bread, Quinoa Salad with Kale, Pine Nuts, and Parmesan, Zesty Lime Shrimp and
    Avocado Salad). They open outside the app either way.
+
+## The key was added, and the first push, 2026-11-23
+
+- **Adding the key.** The owner's first try pasted the key's fingerprint into GitHub's Key box and asked
+  "is this correct? what was I supposed to do with that copy from step 1?". The instructions had not
+  made clear that the copy command was to be run, not copied. Claude then ran it, which put the public
+  half on the clipboard, and the owner pasted that and answered "Added". GitHub then accepted the key
+  from this Mac.
+- **The first push.** `main` was created on GitHub with six commits, the newest `b98dce9`. Before it:
+  the working tree was clean and all 141 tests passed. After it, checked on GitHub: six commits, every
+  author and committer address is the account's no-reply address, and each commit is linked to the
+  account. `git fetch origin` was run, and `main` follows `origin/main`.
+- **What the push put on GitHub.** The brief, the first export, the rules and notes, the placeholder at
+  the root, and the app under `next/` at version 1.0.0-m1.1. No promote was involved.
+- **Pages was still off** when this was written, so the site answered "not found". Turning it on is the
+  owner's step: Settings, Pages, "Deploy from a branch", `main`, `/ (root)`, Save.
