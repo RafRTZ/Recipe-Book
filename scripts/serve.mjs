@@ -1,6 +1,14 @@
 // Local static server for development. No dependencies.
 // Usage: node scripts/serve.mjs [port]   then open http://localhost:8081/next/
 // Serves the repo root the way GitHub Pages does, with caching switched off.
+//
+// For trying the schema guard and a dead connection by hand, the recipe file can be swapped in memory.
+// Open one of these, then reload the app. Nothing on disk is changed, and it resets when the server stops.
+//   /__test?recipes=newer    data/recipes.json with its schema raised by one
+//   /__test?recipes=changed  the same recipes under a different version
+//   /__test?recipes=fewer    a different version with the first recipe taken out
+//   /__test?recipes=down     no answer for it, as with no connection
+//   /__test?recipes=normal   back to the real file
 
 import { createServer } from 'node:http';
 import { readFile, stat } from 'node:fs/promises';
@@ -36,8 +44,41 @@ async function resolveFile(urlPath) {
   return info && info.isFile() ? { file } : null;
 }
 
+const RECIPE_MODES = ['normal', 'newer', 'changed', 'fewer', 'down'];
+let recipeMode = 'normal';
+
+/** The recipe file as the chosen test mode would serve it, or null to serve the real file. */
+async function swappedRecipes() {
+  if (recipeMode === 'normal') return null;
+  const data = JSON.parse(await readFile(join(root, 'data', 'recipes.json'), 'utf8'));
+  if (recipeMode === 'newer') data.schema += 1;
+  if (recipeMode === 'changed' || recipeMode === 'fewer') data.version = `test-${recipeMode}`;
+  if (recipeMode === 'fewer') {
+    data.recipes = data.recipes.slice(1);
+    data.count = data.recipes.length;
+  }
+  return JSON.stringify(data);
+}
+
 const server = createServer(async (req, res) => {
   try {
+    const url = new URL(req.url || '/', 'http://localhost');
+    if (url.pathname === '/__test') {
+      const wanted = url.searchParams.get('recipes');
+      if (RECIPE_MODES.includes(wanted)) recipeMode = wanted;
+      res.writeHead(200, { 'content-type': 'text/plain; charset=utf-8', 'cache-control': 'no-store' });
+      res.end(`recipes: ${recipeMode}`);
+      return;
+    }
+    if (url.pathname === '/data/recipes.json' && recipeMode !== 'normal') {
+      if (recipeMode === 'down') {
+        req.socket.destroy();
+        return;
+      }
+      res.writeHead(200, { 'content-type': TYPES['.json'], 'cache-control': 'no-store' });
+      res.end(await swappedRecipes());
+      return;
+    }
     const found = await resolveFile(req.url || '/');
     if (!found) {
       res.writeHead(404, { 'content-type': 'text/plain; charset=utf-8' });
