@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": "0254afb77051",
- "updated": "2026-11-24",
+ "version": "35c47b5bfd7c",
+ "updated": "2026-11-25",
  "count": 48,
  "categories": [
   "Seafood",
@@ -4328,38 +4328,53 @@
     "curry",
     "cream"
    ],
-   "serves": 5,
+   "serves": 9,
    "serves_basis": "estimated",
    "yield": "",
    "time": "",
-   "source": "Typed Evernote note (source not named)",
+   "source": "Typed Evernote note (source not named), made lighter in a Claude session 2026-11-23",
    "source_url": "",
    "status": "complete",
-   "description": "Creamy pumpkin soup with a touch of curry, pureed and finished with cream and chicken stock.",
+   "description": "A lighter creamy pumpkin soup with curry and garlic, finished with cream, milk, and chicken stock and brightened with lime; a full double batch.",
    "ingredients": [
     {
-     "text": "1/2 large onion",
+     "text": "1 large onion, sliced",
      "qty": [
       1,
-      2
+      1
      ],
      "unit": null,
      "unit_text": "",
-     "item": "large onion",
-     "item_scaled": "large onion",
+     "item": "large onion, sliced",
+     "item_scaled": "large onion, sliced",
      "size": "",
      "key": "large onion",
      "family": null,
      "shop_item": "large onion"
     },
     {
-     "text": "1/4 cup butter",
+     "text": "2 cloves garlic, minced",
      "qty": [
-      1,
-      4
+      2,
+      1
      ],
-     "unit": "cup",
-     "unit_text": "cup",
+     "unit": "clove",
+     "unit_text": "cloves",
+     "item": "garlic, minced",
+     "item_scaled": "garlic, minced",
+     "size": "",
+     "key": "garlic",
+     "family": "clove",
+     "shop_item": "garlic"
+    },
+    {
+     "text": "4 Tbsp butter",
+     "qty": [
+      4,
+      1
+     ],
+     "unit": "Tbsp",
+     "unit_text": "Tbsp",
      "item": "butter",
      "item_scaled": "butter",
      "size": "",
@@ -4368,9 +4383,24 @@
      "shop_item": "butter"
     },
     {
-     "text": "2 cups cooked pumpkin",
+     "text": "1 tsp curry powder",
      "qty": [
-      2,
+      1,
+      1
+     ],
+     "unit": "tsp",
+     "unit_text": "tsp",
+     "item": "curry powder",
+     "item_scaled": "curry powder",
+     "size": "",
+     "key": "curry powder",
+     "family": "vol",
+     "shop_item": "curry powder"
+    },
+    {
+     "text": "4 cups cooked pumpkin",
+     "qty": [
+      4,
       1
      ],
      "unit": "cup",
@@ -4383,15 +4413,15 @@
      "shop_item": "cooked pumpkin"
     },
     {
-     "text": "1 1/2 tsp salt",
+     "text": "2 tsp salt, then more to taste",
      "qty": [
-      3,
-      2
+      2,
+      1
      ],
      "unit": "tsp",
      "unit_text": "tsp",
-     "item": "salt",
-     "item_scaled": "salt",
+     "item": "salt, then more to taste",
+     "item_scaled": "salt, then more to taste",
      "size": "",
      "key": "salt",
      "family": "vol",
@@ -4413,49 +4443,52 @@
      "shop_item": "heavy cream"
     },
     {
-     "text": "2 1/2 cups chicken stock",
+     "text": "2 cups whole milk (or 4 cups half-and-half in place of the cream and milk)",
      "qty": [
-      5,
-      2
+      2,
+      1
      ],
      "unit": "cup",
      "unit_text": "cups",
-     "item": "chicken stock",
-     "item_scaled": "chicken stock",
+     "item": "whole milk (or 4 cups half-and-half in place of the cream and milk)",
+     "item_scaled": "whole milk",
      "size": "",
-     "key": "chicken stock",
+     "key": "whole milk",
      "family": "vol",
-     "shop_item": "chicken stock"
+     "shop_item": "whole milk"
     },
     {
-     "text": "1/4 tsp curry powder",
+     "text": "4 cups low-sodium chicken stock",
      "qty": [
-      1,
-      4
+      4,
+      1
      ],
-     "unit": "tsp",
-     "unit_text": "tsp",
-     "item": "curry powder",
-     "item_scaled": "curry powder",
+     "unit": "cup",
+     "unit_text": "cups",
+     "item": "low-sodium chicken stock",
+     "item_scaled": "low-sodium chicken stock",
      "size": "",
-     "key": "curry powder",
+     "key": "low-sodium chicken stock",
      "family": "vol",
-     "shop_item": "curry powder"
+     "shop_item": "low-sodium chicken stock"
     },
     {
-     "text": "Sour cream & parsley (optional garnish)"
+     "text": "A squeeze of lime or a splash of cider vinegar, to taste"
+    },
+    {
+     "text": "Plain Greek yogurt, toasted pepitas, and parsley, for garnish"
     }
    ],
-   "steps_html": "<ol><li>Slice onion.</li><li>Melt butter in large pan.</li><li>Add onion &amp; saute until limp.</li><li>Sprinkle onions with curry powder.</li><li>Saute 1-2 minutes more.</li><li>Add onions, salt &amp; pumpkin to food processor (or blender).</li><li>Process 10 seconds until mixed.</li><li>Put pumpkin mix in a pot.</li><li>Add cream slowly by stirring with whisk.</li><li>Add chicken stock.</li><li>Heat slowly.</li><li>Garnish with sour cream &amp;/or parsley.</li></ol>",
-   "notes_html": "<ul><li>Serves estimate: about 7 cups of soup (2 cups pumpkin, 2 cups cream, 2 1/2 cups stock, plus the onion and butter) at about 1 1/2 cups per main-dish serving.</li><li>The ingredient list says \"1/4 tsp. curry\"; step 4 calls it curry powder.</li><li>The note does not say where the recipe came from or how long to heat the soup, so no total time is given.</li><li>Canned pure pumpkin works for the cooked pumpkin (not pie filling); a 15 oz can is about 1 3/4 cups, per Libby's. For a fresh pumpkin, see below.</li><li>A lighter version (suggested 2026-11-23, not yet tried) is below.</li></ul>",
+   "steps_html": "<ol><li>Melt the butter in a large pan and saute the onion until limp, adding the garlic for the last minute.</li><li>Sprinkle with the curry powder and saute 1 to 2 minutes more, so the curry blooms in the butter.</li><li>Process the onions, salt, and pumpkin in a food processor or blender until mixed, in two batches if it will not all fit.</li><li>Move to a pot, whisk in the cream and milk slowly, then add the stock.</li><li>Heat slowly and do not let it boil, since the milk can split.</li><li>Finish with the lime or vinegar, taste for salt, and garnish with a spoonful of yogurt, pepitas, and parsley.</li></ol>",
+   "notes_html": "<ul><li>Standard batch (Ryan, 2026-11-25): the lighter version is the main recipe, doubled. The original Evernote recipe, as written and at its original size, is under Earlier version below.</li><li>The lighter version was suggested in a Claude session 2026-11-23 and has not been tried yet. Against the original, half the cream becomes milk and half the butter goes, and garlic, more curry, low-sodium stock, and a little acid make up the flavor. By a rough estimate (not from a nutrition database) it comes to about 280 calories a serving, against about 450 for the original, with most of the savings from the cream.</li><li>Serves estimate: about 13 cups of soup (4 cups pumpkin, 2 cups cream, 2 cups milk, 4 cups stock, plus the onion and butter) at about 1 1/2 cups per main-dish serving.</li><li>Canned pure pumpkin works for the cooked pumpkin (not pie filling); a 15 oz can is about 1 3/4 cups, per Libby's, so a batch takes two cans plus about 1/2 cup. For a fresh pumpkin, see below.</li><li>If it is thinner than you like, use a little more pumpkin, cut the stock to 3 cups, or blend in two small cooked potatoes or 1 cup of white beans. Light coconut milk can stand in for the cream and milk, and goes well with the curry.</li><li>The original note does not say where the recipe came from or how long to heat the soup, so no total time is given.</li></ul>",
    "sections": [
     {
-     "title": "Lighter version",
-     "html": "<p>Suggested in a Claude session 2026-11-23 and not yet tried; left out of the shopping list. Half the cream becomes milk and half the butter goes, and garlic, more curry, and a little acid make up the flavor. By a rough estimate (not from a nutrition database) it comes to about 280 calories a serving, against about 450 as written, with most of the savings from the cream.</p><p><strong>Ingredients:</strong></p><ul><li>1/2 large onion, sliced</li><li>1 clove garlic, minced</li><li>2 Tbsp butter</li><li>1/2 tsp curry powder</li><li>2 cups cooked pumpkin</li><li>1 tsp salt, then more to taste</li><li>1 cup heavy cream</li><li>1 cup whole milk (or 2 cups half-and-half in place of the cream and milk)</li><li>2 cups low-sodium chicken stock</li><li>A squeeze of lime or a splash of cider vinegar</li><li>Plain Greek yogurt, toasted pepitas, and parsley, for garnish</li></ul><p><strong>Method:</strong></p><ol><li>Melt the butter in a large pan and saute the onion until limp, adding the garlic for the last minute.</li><li>Sprinkle with the curry powder and saute 1 to 2 minutes more, so the curry blooms in the butter.</li><li>Process the onions, salt, and pumpkin in a food processor or blender until mixed.</li><li>Move to a pot, whisk in the cream and milk slowly, then add the stock.</li><li>Heat slowly and do not let it boil, since the milk can split.</li><li>Finish with the lime or vinegar, taste for salt, and garnish with a spoonful of yogurt, pepitas, and parsley.</li></ol><p>If it is thinner than you like, use a full 15 oz can of pumpkin plus a little more, cut the stock to 1 1/2 cups, or blend in a small cooked potato or 1/2 cup of white beans. Light coconut milk can stand in for the cream and milk, and goes well with the curry.</p>"
+     "title": "Earlier version",
+     "html": "<p>The original Evernote recipe as written, kept for reference and left out of the shopping list. It makes about 7 cups, about half the standard batch.</p><p><strong>Ingredients:</strong></p><ul><li>1/2 large onion</li><li>1/4 cup butter</li><li>2 cups cooked pumpkin</li><li>1 1/2 tsp salt</li><li>2 cups heavy cream</li><li>2 1/2 cups chicken stock</li><li>1/4 tsp curry powder</li><li>Sour cream &amp; parsley (optional garnish)</li></ul><p><strong>Method:</strong></p><ol><li>Slice onion.</li><li>Melt butter in large pan.</li><li>Add onion &amp; saute until limp.</li><li>Sprinkle onions with curry powder.</li><li>Saute 1-2 minutes more.</li><li>Add onions, salt &amp; pumpkin to food processor (or blender).</li><li>Process 10 seconds until mixed.</li><li>Put pumpkin mix in a pot.</li><li>Add cream slowly by stirring with whisk.</li><li>Add chicken stock.</li><li>Heat slowly.</li><li>Garnish with sour cream &amp;/or parsley.</li></ol><p>The ingredient list says \"1/4 tsp. curry\"; step 4 calls it curry powder.</p>"
     },
     {
      "title": "Cooked pumpkin from a fresh pumpkin",
-     "html": "<p>Added 2026-11-21. Works with a pie pumpkin or a leftover Halloween pumpkin; Halloween ones are more watery and stringy, so the draining step matters more.</p><ol><li>Check it first. Skip any pumpkin that was ever carved or punctured, has soft or sunken spots (look at the bottom), mold, leaking, a sour smell, animal damage, paint or sealant, or that froze solid. Once cut, the flesh should be firm, bright, and smell fresh; if it is slimy or smells off, compost it.</li><li>Scrub the outside, then cut it in half or into large wedges and scrape out the seeds and strings.</li><li>Roast cut side down on a lined sheet pan at 400 F until a fork slides in easily, about 45 to 60 minutes; thick-walled Halloween pumpkins can take longer.</li><li>Cool, scoop the flesh from the skin, and puree in a food processor until smooth.</li><li>Drain in a fine strainer over a bowl for 30 to 60 minutes, until it is about as thick as canned pumpkin. Measure what the soup needs.</li><li>A medium Halloween pumpkin makes far more than one batch. Freeze the extra in measured portions (2 cups for the recipe as written, 2 1/2 cups for 6 servings).</li></ol>"
+     "html": "<p>Added 2026-11-21. Works with a pie pumpkin or a leftover Halloween pumpkin; Halloween ones are more watery and stringy, so the draining step matters more.</p><ol><li>Check it first. Skip any pumpkin that was ever carved or punctured, has soft or sunken spots (look at the bottom), mold, leaking, a sour smell, animal damage, paint or sealant, or that froze solid. Once cut, the flesh should be firm, bright, and smell fresh; if it is slimy or smells off, compost it.</li><li>Scrub the outside, then cut it in half or into large wedges and scrape out the seeds and strings.</li><li>Roast cut side down on a lined sheet pan at 400 F until a fork slides in easily, about 45 to 60 minutes; thick-walled Halloween pumpkins can take longer.</li><li>Cool, scoop the flesh from the skin, and puree in a food processor until smooth.</li><li>Drain in a fine strainer over a bowl for 30 to 60 minutes, until it is about as thick as canned pumpkin. Measure what the soup needs.</li><li>A medium Halloween pumpkin can make more than one batch. Freeze the extra in measured portions (4 cups for a standard batch).</li></ol>"
     }
    ]
   },

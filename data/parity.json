@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "0254afb77051",
+ "version": "35c47b5bfd7c",
  "cases": [
   {
    "name": "asian-salmon at 1",
@@ -2525,16 +2525,19 @@
     }
    ],
    "scaled": [
-    "- 1/4 cup butter (Pumpkin Soup)",
-    "- 1/2 cup chicken stock (Pumpkin Soup)",
+    "- 1/2 Tbsp butter (Pumpkin Soup)",
     "- 1/2 cup cooked pumpkin (Pumpkin Soup)",
     "- 1/8 tsp curry powder (Pumpkin Soup)",
-    "- 1/2 cup heavy cream (Pumpkin Soup)",
+    "- 1 clove garlic (Pumpkin Soup)",
+    "- 1/4 cup heavy cream (Pumpkin Soup)",
     "- 1 large onion (Pumpkin Soup)",
-    "- 3/8 tsp salt (Pumpkin Soup)"
+    "- 1/2 cup low-sodium chicken stock (Pumpkin Soup)",
+    "- 1/4 tsp salt (Pumpkin Soup)",
+    "- 1/4 cup whole milk (Pumpkin Soup)"
    ],
    "unscaled": [
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)"
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)"
    ]
   },
   {
@@ -2546,37 +2549,19 @@
     }
    ],
    "scaled": [
-    "- 1/4 cup butter (Pumpkin Soup)",
-    "- 1 1/2 cup chicken stock (Pumpkin Soup)",
-    "- 1 1/4 cup cooked pumpkin (Pumpkin Soup)",
-    "- 1/4 tsp curry powder (Pumpkin Soup)",
-    "- 1 1/4 cup heavy cream (Pumpkin Soup)",
+    "- 1 1/2 Tbsp butter (Pumpkin Soup)",
+    "- 1 1/2 cup cooked pumpkin (Pumpkin Soup)",
+    "- 3/8 tsp curry powder (Pumpkin Soup)",
+    "- 1 clove garlic (Pumpkin Soup)",
+    "- 3/4 cup heavy cream (Pumpkin Soup)",
     "- 1 large onion (Pumpkin Soup)",
-    "- 1 tsp salt (Pumpkin Soup)"
+    "- 1 1/2 cup low-sodium chicken stock (Pumpkin Soup)",
+    "- 3/4 tsp salt (Pumpkin Soup)",
+    "- 3/4 cup whole milk (Pumpkin Soup)"
    ],
    "unscaled": [
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)"
-   ]
-  },
-  {
-   "name": "pumpkin-soup at 5",
-   "items": [
-    {
-     "id": "pumpkin-soup",
-     "servings": 5
-    }
-   ],
-   "scaled": [
-    "- 1/4 cup butter (Pumpkin Soup)",
-    "- 2 1/2 cup chicken stock (Pumpkin Soup)",
-    "- 2 cup cooked pumpkin (Pumpkin Soup)",
-    "- 1/4 tsp curry powder (Pumpkin Soup)",
-    "- 2 cup heavy cream (Pumpkin Soup)",
-    "- 1 large onion (Pumpkin Soup)",
-    "- 1 1/2 tsp salt (Pumpkin Soup)"
-   ],
-   "unscaled": [
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)"
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)"
    ]
   },
   {
@@ -2588,37 +2573,67 @@
     }
    ],
    "scaled": [
-    "- 1/2 cup butter (Pumpkin Soup)",
-    "- 3 1/2 cup chicken stock (Pumpkin Soup)",
-    "- 3 cup cooked pumpkin (Pumpkin Soup)",
-    "- 3/8 tsp curry powder (Pumpkin Soup)",
-    "- 3 cup heavy cream (Pumpkin Soup)",
+    "- 3 1/2 Tbsp butter (Pumpkin Soup)",
+    "- 3 1/4 cup cooked pumpkin (Pumpkin Soup)",
+    "- 7/8 tsp curry powder (Pumpkin Soup)",
+    "- 2 clove garlic (Pumpkin Soup)",
+    "- 1 3/4 cup heavy cream (Pumpkin Soup)",
     "- 1 large onion (Pumpkin Soup)",
-    "- 2 1/8 tsp salt (Pumpkin Soup)"
+    "- 3 1/4 cup low-sodium chicken stock (Pumpkin Soup)",
+    "- 1 5/8 tsp salt (Pumpkin Soup)",
+    "- 1 3/4 cup whole milk (Pumpkin Soup)"
    ],
    "unscaled": [
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)"
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)"
    ]
   },
   {
-   "name": "pumpkin-soup at 10",
+   "name": "pumpkin-soup at 9",
    "items": [
     {
      "id": "pumpkin-soup",
-     "servings": 10
+     "servings": 9
     }
    ],
    "scaled": [
-    "- 1/2 cup butter (Pumpkin Soup)",
-    "- 5 cup chicken stock (Pumpkin Soup)",
+    "- 4 Tbsp butter (Pumpkin Soup)",
     "- 4 cup cooked pumpkin (Pumpkin Soup)",
-    "- 1/2 tsp curry powder (Pumpkin Soup)",
-    "- 4 cup heavy cream (Pumpkin Soup)",
+    "- 1 tsp curry powder (Pumpkin Soup)",
+    "- 2 clove garlic (Pumpkin Soup)",
+    "- 2 cup heavy cream (Pumpkin Soup)",
     "- 1 large onion (Pumpkin Soup)",
-    "- 3 tsp salt (Pumpkin Soup)"
+    "- 4 cup low-sodium chicken stock (Pumpkin Soup)",
+    "- 2 tsp salt (Pumpkin Soup)",
+    "- 2 cup whole milk (Pumpkin Soup)"
    ],
    "unscaled": [
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)"
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)"
+   ]
+  },
+  {
+   "name": "pumpkin-soup at 18",
+   "items": [
+    {
+     "id": "pumpkin-soup",
+     "servings": 18
+    }
+   ],
+   "scaled": [
+    "- 8 Tbsp butter (Pumpkin Soup)",
+    "- 8 cup cooked pumpkin (Pumpkin Soup)",
+    "- 2 tsp curry powder (Pumpkin Soup)",
+    "- 4 clove garlic (Pumpkin Soup)",
+    "- 4 cup heavy cream (Pumpkin Soup)",
+    "- 2 large onion (Pumpkin Soup)",
+    "- 8 cup low-sodium chicken stock (Pumpkin Soup)",
+    "- 4 tsp salt (Pumpkin Soup)",
+    "- 4 cup whole milk (Pumpkin Soup)"
+   ],
+   "unscaled": [
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)"
    ]
   },
   {
@@ -6452,28 +6467,30 @@
    ],
    "scaled": [
     "- 12 oz 00 (strong bakers) flour or plain flour (Pizza Dough and White Pizza)",
-    "- 1/4 cup butter (Pumpkin Soup)",
-    "- 2 1/2 cup chicken stock (Pumpkin Soup)",
-    "- 2 cup cooked pumpkin (Pumpkin Soup)",
-    "- 1/4 tsp curry powder (Pumpkin Soup)",
+    "- 2 1/2 Tbsp butter (Pumpkin Soup)",
+    "- 2 1/4 cup cooked pumpkin (Pumpkin Soup)",
+    "- 5/8 tsp curry powder (Pumpkin Soup)",
     "- 1 Tbsp dry yeast (Pizza Dough and White Pizza)",
     "- 3/4 tsp finely chopped fresh rosemary (Pizza Dough and White Pizza)",
     "- 7 fl oz lukewarm water (Pizza Dough and White Pizza)",
     "- 5 oz fresh pizza dough (Pizza Dough and White Pizza)",
     "- 1/4 cup fresh ricotta (Pizza Dough and White Pizza)",
-    "- 1 clove garlic (Pizza Dough and White Pizza)",
+    "- 2 clove garlic (Pizza Dough and White Pizza, Pumpkin Soup)",
     "- 1/4 cup grated mozzarella cheese (Pizza Dough and White Pizza)",
     "- 1 1/2 Tbsp grated Parmigian (Pizza Dough and White Pizza)",
     "- 1/4 cup grated provolone cheese (Pizza Dough and White Pizza)",
-    "- 2 cup heavy cream (Pumpkin Soup)",
+    "- 1 1/4 cup heavy cream (Pumpkin Soup)",
     "- 1 large onion (Pumpkin Soup)",
+    "- 2 1/4 cup low-sodium chicken stock (Pumpkin Soup)",
     "- 1 Tbsp olive oil (Pizza Dough and White Pizza)",
-    "- 3 tsp salt (Pizza Dough and White Pizza, Pumpkin Soup)",
-    "- 1 Tbsp sugar (Pizza Dough and White Pizza)"
+    "- 2 5/8 tsp salt (Pizza Dough and White Pizza, Pumpkin Soup)",
+    "- 1 Tbsp sugar (Pizza Dough and White Pizza)",
+    "- 1 1/4 cup whole milk (Pumpkin Soup)"
    ],
    "unscaled": [
     "- Sea salt to taste (Pizza Dough and White Pizza)",
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)"
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)"
    ]
   },
   {
@@ -6489,25 +6506,28 @@
     }
    ],
    "scaled": [
-    "- 1/4 cup butter (Pumpkin Soup)",
-    "- 1 1/2 cup chicken stock (Pumpkin Soup)",
+    "- 1 1/2 Tbsp butter (Pumpkin Soup)",
     "- 2 1/4 cup chopped kale (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
-    "- 1 1/4 cup cooked pumpkin (Pumpkin Soup)",
-    "- 1/4 tsp curry powder (Pumpkin Soup)",
+    "- 1 1/2 cup cooked pumpkin (Pumpkin Soup)",
+    "- 3/8 tsp curry powder (Pumpkin Soup)",
     "- 3/4 tsp Dijon mustard (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
     "- 3 Tbsp extra-virgin olive oil (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
+    "- 1 clove garlic (Pumpkin Soup)",
     "- 1/2 cup grated Parmesan cheese (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
-    "- 1 1/4 cup heavy cream (Pumpkin Soup)",
+    "- 3/4 cup heavy cream (Pumpkin Soup)",
     "- 1 large onion (Pumpkin Soup)",
+    "- 1 1/2 cup low-sodium chicken stock (Pumpkin Soup)",
     "- 1/4 cup red wine vinegar (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
-    "- 1 tsp salt (Pumpkin Soup)",
+    "- 3/4 tsp salt (Pumpkin Soup)",
     "- 1 small onion (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
     "- 1/2 cup toasted pine nuts (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
     "- 1 1/4 cup water (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
-    "- 1 1/2 cup white quinoa (Quinoa Salad with Kale, Pine Nuts, and Parmesan)"
+    "- 1 1/2 cup white quinoa (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
+    "- 3/4 cup whole milk (Pumpkin Soup)"
    ],
    "unscaled": [
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)",
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)",
     "- Kosher salt and black pepper (Quinoa Salad with Kale, Pine Nuts, and Parmesan)"
    ]
   },
@@ -7705,7 +7725,7 @@
     "- 1/4 cup brandy (Sangria)",
     "- 3/4 lb broccoli (Spinach, Broccoli, Cilantro Soup with Dukkah Roasted Chickpeas and Croutons)",
     "- 1/2 cup brown sugar (Asian Salmon, Pho Bo)",
-    "- 3/4 cup butter (Asian Salmon, Perfect Turkey, Pumpkin Soup, Rustic Heirloom Polenta with Eggplant Sauce, Sourdough Pancakes)",
+    "- 1/2 cup butter (Asian Salmon, Perfect Turkey, Pumpkin Soup, Rustic Heirloom Polenta with Eggplant Sauce, Sourdough Pancakes)",
     "- 1 stick butter (Buffalo Wings)",
     "- 13 cup canola oil (Baja Fish Tacos and Slaw, Banh Mi with Viet Fries)",
     "- 2 Tbsp canola or peanut oil (Shrimp in Tamarind Sauce)",
@@ -7718,7 +7738,6 @@
     "- 1 stalk celery (Perfect Turkey)",
     "- 1 tsp celery salt (Buffalo Wings)",
     "- 15 cherry tomatoes (Nicoise Pacific Cod with Crispy Purple Potatoes)",
-    "- 1 1/2 cup chicken stock (Pumpkin Soup)",
     "- 12 oz chickpeas (Spinach, Broccoli, Cilantro Soup with Dukkah Roasted Chickpeas and Croutons)",
     "- 3/4 tsp chili powder (Spicy Ribeye Steaks)",
     "- 1 1/2 tsp Chinese five-spice powder (Banh Mi with Viet Fries)",
@@ -7742,7 +7761,7 @@
     "- 1 cinnamon stick (Pho Bo)",
     "- 45 g coconut flakes (Sourdough Discard Waffles)",
     "- 3 (6 oz) cod fillets (or other white-fleshed fish) (Nicoise Pacific Cod with Crispy Purple Potatoes)",
-    "- 1 1/4 cup cooked pumpkin (Pumpkin Soup)",
+    "- 1 1/2 cup cooked pumpkin (Pumpkin Soup)",
     "- 1/8 tsp cream of tartar (Meringues)",
     "- 3 lb crinkle cut frozen French fries (Banh Mi with Viet Fries)",
     "- 1/4 tsp crushed red chile flakes (Shrimp Saganaki)",
@@ -7750,7 +7769,7 @@
     "- 248 g cubed pineapple (Sourdough Discard Waffles)",
     "- 12 cucumber slices (Banh Mi with Viet Fries)",
     "- 1 bunch curly kale (Kale Salad with Lemon and Parmesan)",
-    "- 1/4 tsp curry powder (Pumpkin Soup)",
+    "- 3/8 tsp curry powder (Pumpkin Soup)",
     "- 3 lb daikon (Banh Mi with Viet Fries)",
     "- 1 (14.5 oz) can diced tomatoes (Shrimp Fra Diavolo)",
     "- 1 (14 oz) can diced tomatoes (Spicy Ribeye Steaks)",
@@ -7810,7 +7829,7 @@
     "- 1/2 Tbsp freshly squeezed lime juice (Stir Fry Baby Bok Choy)",
     "- 1/4 cup frozen lemonade concentrate (Sangria)",
     "- 2 lb frozen wing pieces (par-boiled) (Chicken With Bourbon Marinade)",
-    "- 68 clove garlic (Banh Mi with Viet Fries, Buffalo Wings, Chopped Kale with Hot Pepper Vinegar, Pizza Dough and White Pizza, Shrimp Fra Diavolo, Shrimp Saganaki, Shrimp in Tamarind Sauce, Stir Fry Baby Bok Choy, White Pizza (Ryan's))",
+    "- 68 clove garlic (Banh Mi with Viet Fries, Buffalo Wings, Chopped Kale with Hot Pepper Vinegar, Pizza Dough and White Pizza, Pumpkin Soup, Shrimp Fra Diavolo, Shrimp Saganaki, Shrimp in Tamarind Sauce, Stir Fry Baby Bok Choy, White Pizza (Ryan's))",
     "- 3/8 tsp garlic powder (or to taste) (Chicken With Bourbon Marinade)",
     "- 2 garlic scape (Spinach, Broccoli, Cilantro Soup with Dukkah Roasted Chickpeas and Croutons)",
     "- 1 tsp ginger juice (grate the ginger on a microplane, then squeeze out the juice) (Tangerines in Ginger Syrup)",
@@ -7833,7 +7852,7 @@
     "- 1 pinch ground white pepper (Stir-Fried Brussels Sprouts with Garlic and Chile)",
     "- 3 cup halved brussels sprouts (Stir-Fried Brussels Sprouts with Garlic and Chile)",
     "- 1 Hass avocado (Zesty Lime Shrimp and Avocado Salad)",
-    "- 1 1/4 cup heavy cream (Pumpkin Soup)",
+    "- 3/4 cup heavy cream (Pumpkin Soup)",
     "- 9 Tbsp hoisin sauce (Banh Mi with Viet Fries)",
     "- 1 cup honey (Asian Salmon, Banh Mi with Viet Fries, Buffalo Wings, Granola, Granola with Quinoa and Cherries, Honey Soy Tuna with Asian Cucumber Salad, Pasta with Summer Squashes, Herbs, and Honey, Steak Salad with Arugula and Blue Cheese)",
     "- 7 g honey (Sourdough Sandwich Bread (Pullman))",
@@ -7874,6 +7893,7 @@
     "- 1 lime's worth of juice (Guacamole)",
     "- 2 limes (Sangria, Zesty Lime Shrimp and Avocado Salad)",
     "- 1/2 cup low-salt chicken broth (Stir-Fried Brussels Sprouts with Garlic and Chile)",
+    "- 1 1/2 cup low-sodium chicken stock (Pumpkin Soup)",
     "- 4 maraschino cherries (Sangria)",
     "- 3 medium onion (Chopped Kale with Hot Pepper Vinegar, Pho Bo, Shrimp Fra Diavolo)",
     "- 1 medium onions (Pho Bo)",
@@ -7937,7 +7957,7 @@
     "- 3 Romaine or butter lettuce leaves (Vietnamese Summer Rolls)",
     "- 1/4 cup roughly chopped parsley (Farro Salad with Roasted Mushrooms and Parmesan)",
     "- 1 pinch salt (Asian Salmon)",
-    "- 3 Tbsp salt (Baja Fish Tacos and Slaw, Easy Artisan Bread, Pho Bo, Pizza Dough and White Pizza, Pumpkin Soup, Rustic Heirloom Polenta with Eggplant Sauce, Sourdough Crumpets (Samantha cakes), Sourdough Pancakes)",
+    "- 2 1/2 Tbsp salt (Baja Fish Tacos and Slaw, Easy Artisan Bread, Pho Bo, Pizza Dough and White Pizza, Pumpkin Soup, Rustic Heirloom Polenta with Eggplant Sauce, Sourdough Crumpets (Samantha cakes), Sourdough Pancakes)",
     "- 3 g salt (Sourdough Bread)",
     "- 7 scallions (Shrimp Saganaki, Steak Salad with Arugula and Blue Cheese, Stir Fry Baby Bok Choy)",
     "- 2 1/4 tsp SEA salt (or to taste) (Guacamole, Meringues, Shrimp Fra Diavolo, Spinach, Broccoli, Cilantro Soup with Dukkah Roasted Chickpeas and Croutons)",
@@ -8026,8 +8046,8 @@
     "- 1/2 cup white wine (Nicoise Pacific Cod with Crispy Purple Potatoes, Shrimp Saganaki)",
     "- 1 whole clove (Pho Bo)",
     "- 3 whole cloves (Pho Bo)",
+    "- 2 1/4 cup whole milk (Pumpkin Soup, Sourdough Pancakes)",
     "- 391 g whole milk (Sourdough Discard Waffles, Sourdough Sandwich Bread (Pullman))",
-    "- 1 1/2 cup whole milk (Sourdough Pancakes)",
     "- 1/2 cup whole raw almonds (Pasta with Summer Squashes, Herbs, and Honey)",
     "- 1 (18 lb) whole turkey (Perfect Turkey)",
     "- 1/2 cup whole wheat flour (whole wheat white flour is best) (Easy Artisan Bread)",
@@ -8062,7 +8082,8 @@
     "- Thai chilies or jalapeno peppers, sliced thinly (Pho Bo)",
     "- Chili oil (Pho Bo)",
     "- Sea salt to taste (Pizza Dough and White Pizza)",
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)",
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)",
     "- Kosher salt and black pepper (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
     "- Olive oil (Salmon and Quinoa)",
     "- Smoked paprika, a few pinches (Salmon and Quinoa)",
@@ -8186,7 +8207,7 @@
     },
     {
      "id": "pumpkin-soup",
-     "servings": 5
+     "servings": 9
     },
     {
      "id": "quinoa-salad-with-kale-pine-nuts-and-parmesan",
@@ -8338,7 +8359,6 @@
     "- 4 stalk celery (Perfect Turkey)",
     "- 1 tsp celery salt (Buffalo Wings)",
     "- 10 cherry tomatoes (Nicoise Pacific Cod with Crispy Purple Potatoes)",
-    "- 2 1/2 cup chicken stock (Pumpkin Soup)",
     "- 8 oz chickpeas (Spinach, Broccoli, Cilantro Soup with Dukkah Roasted Chickpeas and Croutons)",
     "- 2 tsp chili powder (Spicy Ribeye Steaks)",
     "- 1/2 tsp Chinese five-spice powder (Banh Mi with Viet Fries)",
@@ -8362,7 +8382,7 @@
     "- 1 cinnamon stick (Pho Bo)",
     "- 30 g coconut flakes (Sourdough Discard Waffles)",
     "- 2 (6 oz) cod fillets (or other white-fleshed fish) (Nicoise Pacific Cod with Crispy Purple Potatoes)",
-    "- 2 cup cooked pumpkin (Pumpkin Soup)",
+    "- 4 cup cooked pumpkin (Pumpkin Soup)",
     "- 1/8 tsp cream of tartar (Meringues)",
     "- 1 lb crinkle cut frozen French fries (Banh Mi with Viet Fries)",
     "- 1/4 tsp crushed red chile flakes (Shrimp Saganaki)",
@@ -8370,7 +8390,7 @@
     "- 165 g cubed pineapple (Sourdough Discard Waffles)",
     "- 4 cucumber slices (Banh Mi with Viet Fries)",
     "- 1 bunch curly kale (Kale Salad with Lemon and Parmesan)",
-    "- 1/4 tsp curry powder (Pumpkin Soup)",
+    "- 1 tsp curry powder (Pumpkin Soup)",
     "- 1 lb daikon (Banh Mi with Viet Fries)",
     "- 1 (14.5 oz) can diced tomatoes (Shrimp Fra Diavolo)",
     "- 1 (14 oz) can diced tomatoes (Spicy Ribeye Steaks)",
@@ -8430,7 +8450,7 @@
     "- 1 Tbsp freshly squeezed lime juice (Stir Fry Baby Bok Choy)",
     "- 1 1/2 cup frozen lemonade concentrate (Sangria)",
     "- 5 lb frozen wing pieces (par-boiled) (Chicken With Bourbon Marinade)",
-    "- 47 clove garlic (Banh Mi with Viet Fries, Buffalo Wings, Chopped Kale with Hot Pepper Vinegar, Pizza Dough and White Pizza, Shrimp Fra Diavolo, Shrimp Saganaki, Shrimp in Tamarind Sauce, Stir Fry Baby Bok Choy, White Pizza (Ryan's))",
+    "- 49 clove garlic (Banh Mi with Viet Fries, Buffalo Wings, Chopped Kale with Hot Pepper Vinegar, Pizza Dough and White Pizza, Pumpkin Soup, Shrimp Fra Diavolo, Shrimp Saganaki, Shrimp in Tamarind Sauce, Stir Fry Baby Bok Choy, White Pizza (Ryan's))",
     "- 1 tsp garlic powder (or to taste) (Chicken With Bourbon Marinade)",
     "- 1 garlic scape (Spinach, Broccoli, Cilantro Soup with Dukkah Roasted Chickpeas and Croutons)",
     "- 2 tsp ginger juice (grate the ginger on a microplane, then squeeze out the juice) (Tangerines in Ginger Syrup)",
@@ -8494,6 +8514,7 @@
     "- 1 lime's worth of juice (Guacamole)",
     "- 6 limes (Sangria, Zesty Lime Shrimp and Avocado Salad)",
     "- 1/2 cup low-salt chicken broth (Stir-Fried Brussels Sprouts with Garlic and Chile)",
+    "- 4 cup low-sodium chicken stock (Pumpkin Soup)",
     "- 32 maraschino cherries (Sangria)",
     "- 3 medium onion (Chopped Kale with Hot Pepper Vinegar, Pho Bo, Shrimp Fra Diavolo)",
     "- 2 medium onions (Pho Bo)",
@@ -8646,8 +8667,8 @@
     "- 3/4 cup white wine (Nicoise Pacific Cod with Crispy Purple Potatoes, Shrimp Saganaki)",
     "- 1 whole clove (Pho Bo)",
     "- 6 whole cloves (Pho Bo)",
+    "- 4 cup whole milk (Pumpkin Soup, Sourdough Pancakes)",
     "- 431 g whole milk (Sourdough Discard Waffles, Sourdough Sandwich Bread (Pullman))",
-    "- 2 cup whole milk (Sourdough Pancakes)",
     "- 1/4 cup whole raw almonds (Pasta with Summer Squashes, Herbs, and Honey)",
     "- 1 (18 lb) whole turkey (Perfect Turkey)",
     "- 3 1/2 cup whole wheat flour (whole wheat white flour is best) (Easy Artisan Bread)",
@@ -8682,7 +8703,8 @@
     "- Thai chilies or jalapeno peppers, sliced thinly (Pho Bo)",
     "- Chili oil (Pho Bo)",
     "- Sea salt to taste (Pizza Dough and White Pizza)",
-    "- Sour cream & parsley (optional garnish) (Pumpkin Soup)",
+    "- A squeeze of lime or a splash of cider vinegar, to taste (Pumpkin Soup)",
+    "- Plain Greek yogurt, toasted pepitas, and parsley, for garnish (Pumpkin Soup)",
     "- Kosher salt and black pepper (Quinoa Salad with Kale, Pine Nuts, and Parmesan)",
     "- Olive oil (Salmon and Quinoa)",
     "- Smoked paprika, a few pinches (Salmon and Quinoa)",
